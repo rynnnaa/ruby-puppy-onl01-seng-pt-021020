@@ -1,7 +1,5 @@
 class Dog 
-  
   @@all = []
-  NAMES = []
   
   attr_accessor (:name)
   
